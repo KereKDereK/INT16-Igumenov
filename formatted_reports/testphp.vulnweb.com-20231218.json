@@ -1,0 +1,32 @@
+{
+    "vulnerabilities": [
+        {
+            "name": "Absence of Anti-CSRF Tokens",
+            "count": "1"
+        },
+        {
+            "name": "Content Security Policy (CSP) Header Not Set",
+            "count": "1"
+        },
+        {
+            "name": "Missing Anti-clickjacking Header",
+            "count": "1"
+        },
+        {
+            "name": "Server Leaks Information via \"X-Powered-By\" HTTP Response Header Field(s)",
+            "count": "1"
+        },
+        {
+            "name": "Server Leaks Version Information via \"Server\" HTTP Response Header Field",
+            "count": "2"
+        },
+        {
+            "name": "X-Content-Type-Options Header Missing",
+            "count": "2"
+        },
+        {
+            "name": "Charset Mismatch (Header Versus Meta Content-Type Charset)",
+            "count": "1"
+        }
+    ]
+}

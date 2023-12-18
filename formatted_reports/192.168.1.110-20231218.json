@@ -1,0 +1,32 @@
+{
+    "vulnerabilities": [
+        {
+            "name": "Cloud Metadata Potentially Exposed",
+            "count": "1"
+        },
+        {
+            "name": "Content Security Policy (CSP) Header Not Set",
+            "count": "56"
+        },
+        {
+            "name": "Cross-Domain Misconfiguration",
+            "count": "71"
+        },
+        {
+            "name": "Cross-Domain JavaScript Source File Inclusion",
+            "count": "96"
+        },
+        {
+            "name": "Timestamp Disclosure - Unix",
+            "count": "1"
+        },
+        {
+            "name": "Information Disclosure - Suspicious Comments",
+            "count": "2"
+        },
+        {
+            "name": "Modern Web Application",
+            "count": "49"
+        }
+    ]
+}
